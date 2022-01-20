@@ -14,7 +14,6 @@ public class PongPlusPlusApp extends Application {
     @Override
     public void start(Stage stage) {
         Thread.setDefaultUncaughtExceptionHandler((t, e) -> {
-            // TODO: Logging
             System.out.println(e.getMessage());
             JOptionPane.showMessageDialog(null, "Something goes wrong!");
         });

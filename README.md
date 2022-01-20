@@ -53,7 +53,7 @@ Bei der Entwicklung des Ball Movement und KI-Movement brauchten wir externe Unte
 Wir haben schon in vorherigen Projekten zusammengearbeitet. Von Anfang an, waren wir uns einig was wir machen wollten und was unser Ziel war. Wir haben uns ständig ausgetauscht, teilweise auch im Teams Call miteinander programmiert und uns gegenseitig ausgeholfen, wenn wir nicht weiterwussten.
 Wir konnten nicht nur unsere «MUSS» Ziele umsetzen, sondern auch unsere «KANN» Ziele. Eins unserer zuerst Drei geplanten «Features/Abilities» haben wir dann nicht implementiert, da es dann ein bisschen zu viele gewesen wären.
 Wir sind im Ganzen sehr zufrieden und haben nichts Spezifisches das wir nächstes Mal anders machen würden.
-
+ 
 
 ## Authors
 
