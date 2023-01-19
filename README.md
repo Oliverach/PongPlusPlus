@@ -45,16 +45,8 @@ PongPlusPlus (Pong++) handelt sich um ein Player VS PC Pong spiel mit Fähigkeit
 - PongPlusPlusApp: In dieser Klasse werden alle Szenen registriert.
 - Board: Zeichnet alle In-game Elemente und Enthält alle in-game Logik.
 - GameSetting: Enthält alle Game Einstellungen
-
-# Fazit
-
-Mit dem Endergebnis sind wir beide sehr zufrieden. Das was entstanden ist, entspricht unsere Vorstellung von unserem Produkt und ist sogar besser rausgekommen als wir uns vorstellten. Es gibt in diesem Projekt fast nichts Schlechtes zu erwähnen. Wir waren immer gut unterwegs und waren uns einig. Daher sparten wir viel Zeit beim Entscheidungen treffen. Beim Programmieren lief alles wunderbar.
-Bei der Entwicklung des Ball Movement und KI-Movement brauchten wir externe Unterstützung. Wir haben Code vom Internet implementiert, welche wir verstanden haben. Grundsätzlich ist dies kein komplizierter Code, man muss jedoch ein bisschen nachdenken um darauf zu kommen. 
-Wir haben schon in vorherigen Projekten zusammengearbeitet. Von Anfang an, waren wir uns einig was wir machen wollten und was unser Ziel war. Wir haben uns ständig ausgetauscht, teilweise auch im Teams Call miteinander programmiert und uns gegenseitig ausgeholfen, wenn wir nicht weiterwussten.
-Wir konnten nicht nur unsere «MUSS» Ziele umsetzen, sondern auch unsere «KANN» Ziele. Eins unserer zuerst Drei geplanten «Features/Abilities» haben wir dann nicht implementiert, da es dann ein bisschen zu viele gewesen wären.
-Wir sind im Ganzen sehr zufrieden und haben nichts Spezifisches das wir nächstes Mal anders machen würden.
  
 
 ## Authors
 
-Youri Kuhn, Oliver Achermann
+[yrikhn](https://github.com/yrikhn), [oliverach](https://github.com/Oliverach)
